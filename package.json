@@ -1,0 +1,19 @@
+{
+  "name": "hapi-starter-kit",
+  "version": "1.0.0",
+  "description": "Starter kit to build RESTful API using HapiJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/_mocha",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.13.1",
+    "hapi": "^16.6.0",
+    "joi": "^13.0.2",
+    "mocha": "^4.0.1",
+    "sinon": "^4.1.3"
+  }
+}
